@@ -74,11 +74,10 @@ html {
       display: inline-block;
       padding: 15px 20px;
     }
-  
-  }
-
-  .hamburger {
-    display: none;
+    
+    .hamburger {
+      display: none;
+    }
   }
 
   html.dark {
